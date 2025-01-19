@@ -1,1 +1,1 @@
-readme wasnt in local directory bro ts ASSSSSSSSSSSSSSSSSSSSSSSSSSS
+First attempt at making a website lol
